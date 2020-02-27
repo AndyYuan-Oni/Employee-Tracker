@@ -1,12 +1,12 @@
 USE tracker_DB;
 
-INSERT INTO department (name)
+INSERT INTO department (department_name)
 VALUE ("Sales");
-INSERT INTO department (name)
+INSERT INTO department (department_name)
 VALUE ("Finance");
-INSERT INTO department (name)
+INSERT INTO department (department_name)
 VALUE ("Engineering");
-INSERT INTO department (name)
+INSERT INTO department (department_name)
 VALUE ("Legal");
 
 INSERT INTO role (title, salary, department_id)
