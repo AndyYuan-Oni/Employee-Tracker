@@ -23,7 +23,7 @@ It has the function of:
 
 Down load the file.
 
-Open mysql and copy pasete from schema.sql, and run.  
+Open mysql and copy paste from schema.sql, and run.  
 
 for some semo data, run seeds.sql.
 
